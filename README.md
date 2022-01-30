@@ -1,3 +1,5 @@
+### Merger
+Python script, made for data aggregation from several Excel files to a new one.
 ### Requirements 
 Every original Excel file must have columns:  
 ```
