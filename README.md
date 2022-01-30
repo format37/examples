@@ -57,9 +57,7 @@ class2_actual
 class2_predicted
 ```
 - The columns will be ordered according to the requirements:
-```  
-Patient_ID, Filename, SDRR, SDPR, MPv, MRR, SDRR_ratio, SDPR_ratio, MPv_ratio, SDVm130_ratio, MRR_ratio, class3, class2, Afib, non.Afib, class2_actual, class2_predicted, F, S, A, NF, NS, NA
-```
+Patient_ID, Filename, SDRR, SDPR, MPv, MRR, SDRR_ratio, SDPR_ratio, MPv_ratio, SDVm130_ratio, MRR_ratio, class3, class2, Afib, non.Afib, class2_actual, class2_predicted, F, S, A, NF, NS, NA  
 Only the listed columns are included in the result.
 - Sorting by columns:
 ```
